@@ -1,0 +1,7 @@
+# start analysis for a new paper
+
+paper title: CART
+
+* abstract
+* method
+* results
