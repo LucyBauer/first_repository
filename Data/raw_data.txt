@@ -1,0 +1,2 @@
+To create a new folder and a new file in it.
+Cannot committ a empty folder in Git
